@@ -1,0 +1,12 @@
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+
+#about img {
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+#projects img {
+  object-fit: cover;
+}
